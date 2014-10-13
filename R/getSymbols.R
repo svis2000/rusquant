@@ -107,9 +107,9 @@ for(i in 1:length(Symbols)) {
          Sys.sleep(1)
        }
      }
-	 print('The RogovIndex© indices and tools are proprietary to and distributed by Mikhail Rogov.' )
-	 print('All content of the Rogov Index© is proprietary to Mikhail Rogov Terms and Conditions of Access Provider at our discretion,')
-	 print('provide you with services including, but not restricted to, RogovIndex© indices and tools. ')
+	 print('The RogovIndexÂ© indices and tools are proprietary to and distributed by Mikhail Rogov.' )
+	 print('All content of the Rogov IndexÂ© is proprietary to Mikhail Rogov Terms and Conditions of Access Provider at our discretion,')
+	 print('provide you with services including, but not restricted to, RogovIndex? indices and tools. ')
 	 print('You agree to comply with the conditions imposed on your use of the services, as set out in these Terms and Conditions of Access and elsewhere in our services. ')
 	 print('These services may be outside our control or provided by a third party in which in case we cannot take responsibility for their content, or for any delays,')
 	 print('interruptions or errors in the provisions of these additional services, provided we have exercised reasonable care and diligence in the selection of such ')
