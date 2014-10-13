@@ -1,3 +1,4 @@
+
 "getSymbols.rogov" <-
 function(Symbols,env,return.class='xts',index.class='Date',
          from='2007-01-01',

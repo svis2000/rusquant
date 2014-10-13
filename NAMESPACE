@@ -1,3 +1,4 @@
+
 export(getSymbols.Finam)
 export(getSymbols.mfd)
 export(getSymbols.rogov)
