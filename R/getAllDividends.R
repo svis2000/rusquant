@@ -1,3 +1,4 @@
+
 "getDividendsInternal" <- function(url){
     data <- read.csv(url, sep=';', as.is=TRUE, quote="")
     stock <- data.frame(data[,1], data[,2],

@@ -1,3 +1,4 @@
+
 "importDefaults" <-
 function(calling.fun=NULL) {
   sc <- sys.call(-1)
@@ -106,8 +107,8 @@ function(name)
 
   simple.name <- name
 
-  #if(!is.function(eval(parse(text=name))))
-    #stop("argument must be a function")
+  if(!is.function(eval(parse(text=name))))
+    stop("argument must be a function")
 
   if(identical(grep("(\\.usingDefaults) | (importDefaults)",deparse(body(get(name,
      env=globalenv())))), integer(0))) { 

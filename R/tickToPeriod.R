@@ -1,3 +1,4 @@
+
 "tickToPeriod" <- function(data, period, k=1){
 
     ep0 <- endpoints(data, period, k=k)
