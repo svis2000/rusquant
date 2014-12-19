@@ -1,4 +1,3 @@
-
 \name{getSymbols}
 \alias{getSymbols}
 \title{Load and manage market data}

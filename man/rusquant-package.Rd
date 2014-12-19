@@ -1,4 +1,3 @@
-
 \name{rusquant-package}
 \alias{rusquant-package}
 \alias{rusquant}
